@@ -1,0 +1,1 @@
+console.log(process.argv[2]>2? "other" : process.argv[2]>1? "shedding" : process.argv[2]>0 ? "flowering" : 	"alive");
